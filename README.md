@@ -8,7 +8,7 @@ flutter_instagram_clone_app project has "main.dart" as Entry Point.
 - [Drop me your message](https://twitter.com/khandla20)
 
 
-https://user-images.githubusercontent.com/48312656/116775473-9e2e5500-aa0f-11eb-8ee5-dd80af8f95e1.mp4
+![Instagram Clone App In Flutter](https://user-images.githubusercontent.com/48312656/122679494-92e9e100-d197-11eb-83a1-d1e7f7269c6d.jpg)
 
 
 = = = To Generate Android release steps = = =
