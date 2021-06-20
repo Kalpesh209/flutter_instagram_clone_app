@@ -1,4 +1,4 @@
-# flutter_instagram_clone_app
+# Instagram Clone App In Flutter
 
 
 flutter_instagram_clone_app project has "main.dart" as Entry Point.
